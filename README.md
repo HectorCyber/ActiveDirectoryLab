@@ -1,1 +1,1 @@
-# ActiveDirectoryLab
+# AzureSentinelLab
